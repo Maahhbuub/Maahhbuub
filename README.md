@@ -76,8 +76,23 @@ I actively participate in competitive programming contests to sharpen my problem
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://your-demo-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrahman441/DirectEdge)
 
+---
 
+### Wanderlust - Property Rental Web Application
 
+<img src="wanderlust.png" alt="Wanderlust" width="700"/>
+
+**Wanderlust is a full-stack web application for discovering and managing accommodation listings. It features user authentication, property creation with image uploads, interactive maps, and a review system with ratings. Built with Node.js, Express, MongoDB, and EJS, it provides a responsive interface with category-based browsing and dynamic pricing features.**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://wanderlust-ltah.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrahman441/Wanderlust)
 
 
 </div>
