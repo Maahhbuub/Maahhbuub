@@ -92,6 +92,18 @@ A full-stack web application for discovering and managing accommodation listings
 
 **Live Demo:** https://wanderlust-ltah.onrender.com/
 
+---
+
+### [ Cook Corner | Smart Cooking Assistant Platform ](https://github.com/TashinParvez/Cook-Corner)
+
+A full-featured web platform that helps users discover recipes, plan meals, track nutrition, and manage kitchen activities more efficiently.
+
+- **Key Features:** Ingredient-based recipe generator, meal planning, nutrition-aware suggestions, grocery list management, and recipe contributions.
+- **Impact:** Helps users cook smarter, reduce food waste, and maintain healthier eating habits through personalized cooking assistance.
+- **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
+
+**Live Demo:** https://cook-corner.onrender.com/
+
 ## Connect With Me
 
 <div align="left">
