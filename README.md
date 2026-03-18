@@ -82,7 +82,7 @@ A smart 3-sided digital platform that simplifies agricultural supply chains by c
 
 A full-stack web application for discovering and managing accommodation listings.
 
-- **Features:** User authentication, property creation, interactive maps, and detailed review systems.
+- **Key Features:** User authentication, property creation, interactive maps, and detailed review systems.
 - **Architecture:** Built with a robust backend using **Node.js** & **Express** and scalable **MongoDB** database.
 
 **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, Bootstrap, Cloudinary <br>
