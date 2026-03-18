@@ -14,10 +14,10 @@
 
 I'm a passionate software developer with expertise in competitive programming and full-stack web development. I enjoy solving complex algorithmic problems and building scalable web applications that make a difference.
 
-- 🏆 Active competitive programmer on multiple platforms
-- 🔭 Building robust full-stack applications with modern technologies
-- 💡 Constantly learning and exploring new technologies
-- 🎯 Focused on writing clean, efficient, and maintainable code
+- Active competitive programmer on multiple platforms
+- Building robust full-stack applications with modern technologies
+- Constantly learning and exploring new technologies
+- Focused on writing clean, efficient, and maintainable code
 
 ## Competitive Programming
 
