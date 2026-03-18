@@ -2,7 +2,7 @@
   
 # Hi, I'm Mahbubur Rahman
 
-### Competitive Programmer | Full Stack Developer
+### Competitive Programmer | Full Stack Web Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrahman441)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrahman221441@gmail.com)
@@ -70,30 +70,30 @@ I actively participate in competitive programming contests to sharpen my problem
 
 ## Featured Projects
 
-<div align="center">
-
 ### DirectEdge - Agricultural Supply Chain Management System
 
-<img src="directedge.jpg" alt="DirectEdge" width="700"/>
+> **A smart 3-sided digital platform that simplifies agricultural supply chains by connecting farmers, distributors, and shop owners. Eliminates middlemen inefficiencies and provides real-time inventory and demand forecasting using computer vision and machine learning.**
 
-**A smart 3-sided digital platform that simplifies agricultural supply chains by connecting farmers, distributors, and shop owners. Eliminates middlemen inefficiencies and provides real-time inventory and demand forecasting using computer vision and machine learning.**
-
+**Tech Stack**
+<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
+**Links**
+<br>
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://your-demo-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrahman441/DirectEdge)
 
----
+<br>
 
 ### Wanderlust - Property Rental Web Application
 
-<img src="wanderlust.png" alt="Wanderlust" width="700"/>
+> **Wanderlust is a full-stack web application for discovering and managing accommodation listings. It features user authentication, property creation with image uploads, interactive maps, and a review system with ratings. Built with Node.js, Express, MongoDB, and EJS, it provides a responsive interface with category-based browsing and dynamic pricing features.**
 
-**Wanderlust is a full-stack web application for discovering and managing accommodation listings. It features user authentication, property creation with image uploads, interactive maps, and a review system with ratings. Built with Node.js, Express, MongoDB, and EJS, it provides a responsive interface with category-based browsing and dynamic pricing features.**
-
+**Tech Stack**
+<br>
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -101,11 +101,10 @@ I actively participate in competitive programming contests to sharpen my problem
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
+**Links**
+<br>
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://wanderlust-ltah.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrahman441/Wanderlust)
-
-
-</div>
 
 ## Connect With Me
 
