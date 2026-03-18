@@ -78,7 +78,7 @@ A smart 3-sided digital platform that simplifies agricultural supply chains by c
 - **Tech:** Real-time inventory tracking & demand forecasting using **Computer Vision** and **Machine Learning**.
 
 **Tech Stack:** Python, PHP, JavaScript, MySQL <br>
-**Live Demo:** https://your-demo-link.com
+**Live Demo:** https://demo-link.com
 
 ---
 
@@ -102,7 +102,7 @@ A full-featured web platform that helps users discover recipes, plan meals, trac
 - **Impact:** Helps users cook smarter, reduce food waste, and maintain healthier eating habits through personalized cooking assistance.
 
 **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap <br>
-**Live Demo:** https://cook-corner.onrender.com/
+**Live Demo:** https://demo-link.com
 
 ## Connect With Me
 
