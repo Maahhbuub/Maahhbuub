@@ -70,25 +70,25 @@ I actively participate in competitive programming contests to sharpen my problem
 
 ## Featured Projects
 
-### [🌾 DirectEdge – Agricultural Supply Chain Management System](https://github.com/mrahman441/DirectEdge)
+### [ DirectEdge | Agricultural Supply Chain Management System](https://github.com/TashinParvez/direct-edge)
 
 A smart 3-sided digital platform that simplifies agricultural supply chains by connecting farmers, distributors, and shop owners.
 
-- 🚀 **Impact:** Eliminates middlemen inefficiencies and optimizes supply distribution.
-- 🔮 **Tech:** Real-time inventory tracking & demand forecasting using **Computer Vision** and **Machine Learning**.
-- 🛠 **Stack:** Python, PHP, JavaScript, MySQL
+- **Impact:** Eliminates middlemen inefficiencies and optimizes supply distribution.
+- **Tech:** Real-time inventory tracking & demand forecasting using **Computer Vision** and **Machine Learning**.
+- **Stack:** Python, PHP, JavaScript, MySQL
 
 **Live Demo:** https://your-demo-link.com
 
 ---
 
-### [🏡 Wanderlust | Property Rental Platform](https://github.com/mrahman441/Wanderlust)
+### [ Wanderlust | Property Rental Platform](https://github.com/mrahman441/Wanderlust)
 
 A full-stack web application for discovering and managing accommodation listings.
 
-- 🌟 **Features:** User authentication, property creation, interactive maps, and detailed review systems.
-- ⚙️ **Architecture:** Built with a robust backend using **Node.js** & **Express** and scalable **MongoDB** database.
-- 🛠 **Stack:** Node.js, Express.js, MongoDB, JavaScript, Bootstrap, Cloudinary
+- **Features:** User authentication, property creation, interactive maps, and detailed review systems.
+- **Architecture:** Built with a robust backend using **Node.js** & **Express** and scalable **MongoDB** database.
+- **Stack:** Node.js, Express.js, MongoDB, JavaScript, Bootstrap, Cloudinary
 
 **Live Demo:** https://wanderlust-ltah.onrender.com/
 
