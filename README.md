@@ -76,8 +76,8 @@ A smart 3-sided digital platform that simplifies agricultural supply chains by c
 
 - **Impact:** Eliminates middlemen inefficiencies and optimizes supply distribution.
 - **Tech:** Real-time inventory tracking & demand forecasting using **Computer Vision** and **Machine Learning**.
-- **Stack:** Python, PHP, JavaScript, MySQL
 
+**Tech Stack:** Python, PHP, JavaScript, MySQL <br>
 **Live Demo:** https://your-demo-link.com
 
 ---
@@ -88,8 +88,8 @@ A full-stack web application for discovering and managing accommodation listings
 
 - **Features:** User authentication, property creation, interactive maps, and detailed review systems.
 - **Architecture:** Built with a robust backend using **Node.js** & **Express** and scalable **MongoDB** database.
-- **Stack:** Node.js, Express.js, MongoDB, JavaScript, Bootstrap, Cloudinary
 
+**Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, Bootstrap, Cloudinary <br>
 **Live Demo:** https://wanderlust-ltah.onrender.com/
 
 ---
@@ -100,8 +100,8 @@ A full-featured web platform that helps users discover recipes, plan meals, trac
 
 - **Key Features:** Ingredient-based recipe generator, meal planning, nutrition-aware suggestions, grocery list management, and recipe contributions.
 - **Impact:** Helps users cook smarter, reduce food waste, and maintain healthier eating habits through personalized cooking assistance.
-- **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
 
+**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap <br>
 **Live Demo:** https://cook-corner.onrender.com/
 
 ## Connect With Me
