@@ -94,7 +94,7 @@ A full-stack web application for discovering and managing accommodation listings
 
 A full-featured web platform that helps users discover recipes, plan meals, track nutrition, and manage kitchen activities more efficiently.
 
-- **Key Features:** Ingredient-based recipe generator, meal planning, nutrition-aware suggestions, grocery list management, and recipe contributions.
+- **Key Features:** Ingredient-based recipe generator, meal planning, nutrition suggestions, grocery management, and recipe contributions.
 - **Impact:** Helps users cook smarter, reduce food waste, and maintain healthier eating habits through personalized cooking assistance.
 
 **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap <br>
