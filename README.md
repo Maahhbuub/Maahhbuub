@@ -70,41 +70,27 @@ I actively participate in competitive programming contests to sharpen my problem
 
 ## Featured Projects
 
-### DirectEdge - Agricultural Supply Chain Management System
+### [🌾 DirectEdge – Agricultural Supply Chain Management System](https://github.com/mrahman441/DirectEdge)
 
-> **A smart 3-sided digital platform that simplifies agricultural supply chains by connecting farmers, distributors, and shop owners. Eliminates middlemen inefficiencies and provides real-time inventory and demand forecasting using computer vision and machine learning.**
+A smart 3-sided digital platform that simplifies agricultural supply chains by connecting farmers, distributors, and shop owners.
 
-**Tech Stack**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+- 🚀 **Impact:** Eliminates middlemen inefficiencies and optimizes supply distribution.
+- 🔮 **Tech:** Real-time inventory tracking & demand forecasting using **Computer Vision** and **Machine Learning**.
+- 🛠 **Stack:** Python, PHP, JavaScript, MySQL
 
-**Links**
-<br>
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://your-demo-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrahman441/DirectEdge)
+**Live Demo:** https://your-demo-link.com
 
-<br>
+---
 
-### Wanderlust - Property Rental Web Application
+### [🏡 Wanderlust | Property Rental Platform](https://github.com/mrahman441/Wanderlust)
 
-> **Wanderlust is a full-stack web application for discovering and managing accommodation listings. It features user authentication, property creation with image uploads, interactive maps, and a review system with ratings. Built with Node.js, Express, MongoDB, and EJS, it provides a responsive interface with category-based browsing and dynamic pricing features.**
+A full-stack web application for discovering and managing accommodation listings.
 
-**Tech Stack**
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+- 🌟 **Features:** User authentication, property creation, interactive maps, and detailed review systems.
+- ⚙️ **Architecture:** Built with a robust backend using **Node.js** & **Express** and scalable **MongoDB** database.
+- 🛠 **Stack:** Node.js, Express.js, MongoDB, JavaScript, Bootstrap, Cloudinary
 
-**Links**
-<br>
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://wanderlust-ltah.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrahman441/Wanderlust)
+**Live Demo:** https://wanderlust-ltah.onrender.com/
 
 ## Connect With Me
 
@@ -134,3 +120,5 @@ I actively participate in competitive programming contests to sharpen my problem
 <div align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrahman441&theme=tokyonight&hide_border=true" /> 
 </div> -->
+
+
