@@ -4,9 +4,9 @@
 
 ### Competitive Programmer | Full Stack Web Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrahman441)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrahman221441@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mrahman-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Maahhbuub)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Maahhbuub@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://Maahhbuub-portfolio.vercel.app/)
 
 </div>
 
@@ -24,7 +24,7 @@ I'm a passionate software developer with expertise in competitive programming an
 I actively participate in competitive programming contests to sharpen my problem-solving skills:
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/triballiege)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/mahbub441)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/Maahhbuub)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mahbub620)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mahbub620)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/mahbub620)
@@ -79,7 +79,7 @@ A smart 3-sided digital platform that simplifies agricultural supply chains by c
 
 ---
 
-### [ Wanderlust | Property Rental Platform](https://github.com/mrahman441/Wanderlust)
+### [ Wanderlust | Property Rental Platform](https://github.com/Maahhbuub/Wanderlust)
 
 A full-stack web application for discovering and managing accommodation listings.
 
@@ -105,16 +105,16 @@ A full-featured web platform that helps users discover recipes, plan meals, trac
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrahman441)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mahbub623a)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahbub623a)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahbub623a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Maahhbuub)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/Maahhbuub)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Maahhbuub)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Maahhbuub)
 
 </div>
 
 <div align="left">
   
-![Profile Views](https://komarev.com/ghpvc/?username=mrahman441&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Maahhbuub&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 **Thanks for visiting! Feel free to explore my repositories and reach out for collaborations.**
 
@@ -122,12 +122,12 @@ A full-featured web platform that helps users discover recipes, plan meals, trac
 
 <!-- ## GitHub Statistics 
 <div align="center"> 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=mrahman441&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> 
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahman441&layout=compact&theme=tokyonight&hide_border=true" /> 
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Maahhbuub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> 
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maahhbuub&layout=compact&theme=tokyonight&hide_border=true" /> 
 </div> 
 
 <div align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrahman441&theme=tokyonight&hide_border=true" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maahhbuub&theme=tokyonight&hide_border=true" /> 
 </div> -->
 
 
